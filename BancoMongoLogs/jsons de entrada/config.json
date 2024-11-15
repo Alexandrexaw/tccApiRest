@@ -1,0 +1,7 @@
+{
+  "FRESHDESK_URL": "https://testeti.freshdesk.com/api/v2/tickets",
+  "API_TOKEN": "XXXXXXXXX",
+  "SLACK_WEBHOOK_URL": "https://hooks.slack.com/services/XXXXXX",
+  "FRESHDESK_TICKET_URL": "https://testeti.freshdesk.com/a/tickets/",
+  "polling_interval": 60
+}
